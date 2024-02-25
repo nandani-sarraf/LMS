@@ -1,8 +1,9 @@
 'use client'
-import { Props } from "next/dist/client/script";
+
 import React,{FC,use,useState} from "react";
 import Heading from "./utils/Heading";
 import Header from './Components/Header';
+import { Props } from "next/script";
 
 
 interface Propes{}
